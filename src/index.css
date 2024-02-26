@@ -1,0 +1,66 @@
+.navbar{
+    display: flex  ;
+    align-items: center;
+    justify-content: space-between;
+    background-color: orange;
+   
+}
+.logo{
+    height: 150px;
+    margin-left: 100px;
+}
+.korzinka{
+    margin-right: 100px;
+    height: 50px;
+}
+.admin{
+    height: 50px;
+}
+.foods{
+    width: 300px;
+    height: 400px;
+    border: solid;
+}
+.foto{
+    width: 500px;
+    border-radius: 15%;
+   
+}
+.adminDiv{
+    min-height: 2500px;
+    border: solid;
+   background-image: url("./Utils/foto/cardpage.jpg" );
+margin: auto;
+   background-size:calc(100%);
+   background-color: #f1f1f1;
+  
+  
+}
+.adminFood{
+    height: 300px;
+   border-style:hidden;
+    color: rgb(246, 243, 237);
+    box-shadow: 0 0 50px rgba(301, 300, 247, 50);
+   
+}
+.homePage{
+    margin: auto;
+    background-size:calc(100%);
+    min-height: 2500px;
+    background-image: url("./Utils/foto/fon.jpg" );
+}
+.homeCard{
+        
+    color: #f1f1f1;
+}
+.cartFood{
+    
+    margin: auto;
+
+    background-size:calc(100%);
+    min-height: 2500px;
+    background-image: url("./Utils/foto/fast-food-dish-blue.jpg" );
+
+}
+
+
